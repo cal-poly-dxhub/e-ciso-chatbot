@@ -1,0 +1,58 @@
+The NIST five functions:
+
+1. Identify:
+The Identify Function assists in developing an organizational understanding to managing cybersecurity risk to systems, people, assets, data, and capabilities. Understanding the business context, the resources that support critical functions, and the related cybersecurity risks enables an organization to focus and prioritize its efforts, consistent with its risk management strategy and business needs.
+
+Examples of outcome Categories within this Function include:
+
+Identifying physical and software assets within the organization to establish the basis of an Asset Management program
+Identifying the Business Environment the organization supports including the organization's role in the supply chain, and the organizations place in the critical infrastructure sector
+Identifying cybersecurity policies established within the organization to define the Governance program as well as identifying legal and regulatory requirements regarding the cybersecurity capabilities of the organization
+Identifying asset vulnerabilities, threats to internal and external organizational resources, and risk response activities as a basis for the organizations Risk Assessment
+Identifying a Risk Management Strategy for the organization including establishing risk tolerances
+Identifying a Supply Chain Risk Management strategy including priorities, constraints, risk tolerances, and assumptions used to support risk decisions associated with managing supply chain risks
+
+
+2. Protect:
+The Protect Function outlines appropriate safeguards to ensure delivery of critical infrastructure services. The Protect Function supports the ability to limit or contain the impact of a potential cybersecurity event.
+
+Examples of outcome Categories within this Function include:
+
+Protections for Identity Management and Access Control within the organization including physical and remote access
+Empowering staff within the organization through Awareness and Training including role based and privileged user training
+Establishing Data Security protection consistent with the organization’s risk strategy to protect the confidentiality, integrity, and availability of information
+Implementing Information Protection Processes and Procedures to maintain and manage the protections of information systems and assets
+Protecting organizational resources through Maintenance, including remote maintenance, activities
+Managing Protective Technology to ensure the security and resilience of systems and assets are consistent with organizational policies, procedures, and agreements
+
+
+3. Detect:
+The Detect Function defines the appropriate activities to identify the occurrence of a cybersecurity event. The Detect Function enables timely discovery of cybersecurity events.
+
+Examples of outcome Categories within this Function include:
+
+Ensuring Anomalies and Events are detected, and their potential impact is understood
+Implementing Security Continuous Monitoring capabilities to monitor cybersecurity events and verify the effectiveness of protective measures including network and physical activities
+Maintaining Detection Processes to provide awareness of anomalous events
+
+
+4. Respond:
+The Respond Function includes appropriate activities to take action regarding a detected cybersecurity incident. The Respond Function supports the ability to contain the impact of a potential cybersecurity incident.
+
+Examples of outcome Categories within this Function include:
+
+Ensuring Response Planning process are executed during and after an incident
+Managing Communications during and after an event with stakeholders, law enforcement, external stakeholders as appropriate
+Analysis is conducted to ensure effective response and support recovery activities including forensic analysis, and determining the impact of incidents
+Mitigation activities are performed to prevent expansion of an event and to resolve the incident
+The organization implements Improvements by incorporating lessons learned from current and previous detection / response activities
+
+
+5. Recover:
+The Recover Function identifies appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity incident. The Recover Function supports timely recovery to normal operations to reduce the impact from a cybersecurity incident.
+
+Examples of outcome Categories within this Function include:
+
+Ensuring the organization implements Recovery Planning processes and procedures to restore systems and/or assets affected by cybersecurity incidents
+Implementing Improvements based on lessons learned and reviews of existing strategies
+Internal and external Communications are coordinated during and following the recovery from a cybersecurity incident

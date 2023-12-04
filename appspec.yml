@@ -1,0 +1,16 @@
+version: 0.0
+os: linux
+files:
+  - source: src
+    destination: /home/ec2-user/eciso-poc/src
+  - source: streamlit_run.sh
+    destination: /home/ec2-user/eciso-poc
+file_exists_behavior: OVERWRITE
+hooks:
+  ApplicationStop:
+    - location: shutdown.sh
+      runas: root
+  ApplicationStart:
+    - location: streamlit_run.sh
+      timeout: 60
+      runas: ec2-user
