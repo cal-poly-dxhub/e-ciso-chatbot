@@ -1,7 +1,7 @@
 # My eCiso Chatbot
 
 ## Overview
-My eCiso is an innovative chatbot designed to conduct comprehensive interviews about the cybersecurity posture of public sector organizations, particularly focusing on IT personnel from public schools. It leverages the widely recognized NIST framework to evaluate and provide personalized suggestions for enhancing cyber resilience. The public version is available at [myeciso.calpoly.io](http://myeciso.calpoly.io).
+My eCiso is an innovative chatbot designed to conduct comprehensive interviews about the cybersecurity posture of public sector organizations, particularly focusing on IT personnel from public schools. It leverages the widely recognized NIST framework to evaluate and provide personalized suggestions for enhancing cyber resilience. 
 
 ## Key Features
 - **Dynamic Interviewing**: Tailored conversation lasting 30 minutes to 2 hours, depending on the user's background and organization type.
